@@ -1,0 +1,17 @@
+[
+  {
+    "op" : "add",
+    "path" : "/toughgarden",
+    "value" : [
+		[0.50, "clear"],
+		[0.1, "drizzle"],
+		[0.1, "rain"],
+		[0.04, "storm"],
+		[0.04, "glowingrain"],
+		[0.04, "snow" ],
+		[0.04, "windstorm"],
+		[0.1, "acidrain"],
+		[0.04, "meteorshower"]
+  	]
+  }
+]

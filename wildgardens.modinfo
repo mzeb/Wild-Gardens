@@ -1,0 +1,12 @@
+{
+	"name" : “Wild Gardens”,
+	"version" : "Cheerful Giraffe",
+	"path" : ".",
+	"dependencies" : [],
+	"metadata": {
+		"author" : "mzeb",
+		"version" : "1.0",
+		"description" : "Adds difficult garden planets to fiery stars.",
+		"support_url" : "https://github.com/mzeb/Wild-Gardens"
+	}
+}
